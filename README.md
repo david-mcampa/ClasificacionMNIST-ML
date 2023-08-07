@@ -1,6 +1,6 @@
 # Clasificación de Dígitos Escritos a Mano mediante los principales modelos de Machine Learning
 
-Para cada modelo de clasifiación de dígitos MNIST se realizó validación cruzada de 5 folds para obtener los parámetros óptimos. Al obtener los parámetros óptimos obtenemos el mejor modelo lo que es muy útil para hacer una evaluación del mejor modelo para esta tarea.
+Para cada modelo de clasifiación de dígitos MNIST se realizó validación cruzada de 5 folds para obtener los parámetros óptimos. Al obtener los parámetros óptimos obtenemos el mejor modelo de machine learning para esta clasifiación en concreto.
 
 
 ## Árboles de Decisión CART
